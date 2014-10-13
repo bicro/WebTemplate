@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2860265, 2014-08-09T14:26:41-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Proxima Nova A Light by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-light/
+ * 
+ * Webfont: Proxima Nova S Light by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-light/
+ * 
+ * Webfont: Proxima Nova Light by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/light/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2860265
+ * Licensed pageviews: 1,000,000
+ * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2ba4e9");
+
+  
+@font-face {font-family: 'ProximaNovaA-Light';src: url('webfonts/2BA4E9_0_0.eot');src: url('webfonts/2BA4E9_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2BA4E9_0_0.woff') format('woff'),url('webfonts/2BA4E9_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaS-Light';src: url('webfonts/2BA4E9_1_0.eot');src: url('webfonts/2BA4E9_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2BA4E9_1_0.woff') format('woff'),url('webfonts/2BA4E9_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Light';src: url('webfonts/2BA4E9_2_0.eot');src: url('webfonts/2BA4E9_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2BA4E9_2_0.woff') format('woff'),url('webfonts/2BA4E9_2_0.ttf') format('truetype');}
+ 
